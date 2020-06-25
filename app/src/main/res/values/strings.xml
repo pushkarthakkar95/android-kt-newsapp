@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gossip</string>
+    <string name="search_hint">Search..</string>
+    <string name="search_btn_txt">Enlighten Me!</string>
+    <string name="progress_dialog_title">Gathering News!</string>
+    <string name="progress_dialog_msg">Please wait while we gather news for you.</string>
+    <string name="invalid_input_msg">Please enter something to search!</string>
+</resources>
